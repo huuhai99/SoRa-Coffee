@@ -1,0 +1,100 @@
+.tabs {
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.tabs .tab-pane {
+    margin-left: 80px;
+}
+
+.tabs h3 {
+    font-size: 19px;
+    line-height: 21px;
+    font-weight: 300;
+    margin: 20px 0px 15px;
+    color: white;
+}
+
+.tabs p {
+    font-size: 14px;
+}
+
+.tabs a {
+    font-size: 15px;
+    font-family: OpenSans, sans-serif;
+    font-weight: 700;
+    color:#c49b63;
+    padding: 30px;
+}
+
+
+.tabs li {
+    background-color: #333;
+    margin-top: 1px;
+    text-align: center;
+    height: 50px;
+    width: 200px;
+    padding-top: 15px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+
+
+.info {
+    color: white;
+    width: 117px;
+    height: 47px;
+    margin-left: 160px;
+    margin-bottom: 20px;
+}
+
+label.input-label {
+    width: 110px;
+    min-width: 110px;
+    font-size: 13px;
+    color: white;
+}
+.placeholder {
+    font-size: 13px;
+    color: grey;
+}
+
+.styles__StyledAccountInfo-sc-1lrcko9-1.irgDVD {
+    background-color: #343A40;
+    padding: 30px 20px;
+    border-radius: 4px;
+    border-color: white;
+    width: 150%;
+}
+
+
+.form-control_1 {
+!important;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin: 0px 0px 25px;
+}
+
+input.Input-sc-17i9bto-0.bYlDgr {
+    width: 400px;
+}
+
+button.btn-submit {
+    width: 176px;
+    height: 40px;
+    color: #c49b63;
+    font-size: 14px;
+    background-color:black;
+    cursor: pointer;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+    border-radius: 4px;
+}
+a.tttk:hover {
+    color: white;
+}
